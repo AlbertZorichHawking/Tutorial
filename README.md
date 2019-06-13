@@ -12,7 +12,7 @@
 
 1. 登陆GitHub For Windows。
 
-   ![1560386608560](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560386608560.png)
+   ![1560386608560](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560386608560.png)
 
 ## 创建代码库
 
@@ -20,7 +20,7 @@
 
 
 
-![1560386759914](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560386759914.png)
+![1560386759914](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560386759914.png)
 
 
 
@@ -38,19 +38,19 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 如果本地有工程，就可以使用Add添加（当然了，我们现在是没有的）
 
-![1560386871738](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560386871738.png)
+![1560386871738](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560386871738.png)
 
 ### Create
 
 创建代码库， Name填写你的项目名称，Description写这个项目的简单描述，Local path写你将要保存在本地路径，建议勾选Initialize选项，这样会自动生成一个Markdown主文件，可以填写项目的详细介绍。
 
-![1560387374031](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560387374031.png)
+![1560387374031](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560386945325.png)
 
 
 
 我在这里填写First，来创建第一个repository。
 
-![1560387604459](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560387604459.png)
+![1560387604459](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560387604459.png)
 
 
 
@@ -58,15 +58,15 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 我们来找到刚刚创建的代码库在本地的位置。就是刚刚在local path的地址路径，当然如果你忘了，请右键点击First。
 
-![1560387736740](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560387736740.png)
+![1560387736740](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560387736740.png)
 
 选择Open in Explorer。这样就可以转到刚刚的路径下。 新建一个文本文档。用VScode打开。 如下
 
-![1560388045464](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388045464.png)
+![1560388045464](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388045464.png)
 
 填写完内容后保存并关闭，此时的GitHub就会变成这个样子(Changs)：
 
-![1560388121346](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388121346.png)
+![1560388121346](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388121346.png)
 
 你会发现此时github会出现刚刚编辑的内容。
 
@@ -77,7 +77,7 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 
 
-![1560388214216](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388214216.png)
+![1560388214216](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388214216.png)
 
 
 
@@ -89,7 +89,7 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 这里只选择第一个修改对象，也就是**这个是测试文本**就行修改。summer填写为*第一次修改*，Description填写为: *上传了这个是测试文本* ，之后点击**Commit to master**。
 
-![1560388384015](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388384015.png)
+![1560388384015](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388384015.png)
 
 
 
@@ -97,23 +97,23 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 
 
-![1560388439326](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388439326.png)
+![1560388439326](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388439326.png)
 
 
 
 我们会发现它改变了。 这次我们把**你好**进行添加。
 
-![1560388494873](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388494873.png)
+![1560388494873](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388494873.png)
 
 
 
 在**History**目录下发生了这样的改变。会在**History**目录下形成一天时间线，来指出每一次的修改标题和内容，同时会把修改的内容用**绿色标识**标出。打开本地的文本，删除刚刚添加的第一行**这个是测试文本**。
 
-![1560388590555](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388590555.png)
+![1560388590555](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388590555.png)
 
 此时会发现GitHub发生了变化。 有必要**说明**如果使用自带的txt编辑器编辑会出现**乱码**,这个是编码问题,如果不修改编码,只是在客户端上显示乱码,但是上传后不会出现乱码,为了保险起见,建议还是把文本编码修改为 utf-8 ，或者使用VScode编辑.
 
-![1560388764834](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560388764834.png)
+![1560388764834](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560388764834.png)
 
 
 
@@ -127,17 +127,17 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 
 
-![1560389073174](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560389073174.png)
+![1560389073174](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560389073174.png)
 
 
 
 此时你就会本地内容已经上传到网页上。点击View on GitHub即可查看，这里的浏览器推荐使用Chrome，window自带的浏览器可能会打不开
 
-![1560389208764](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560389208764.png)
+![1560389208764](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560389208764.png)
 
 
 
-![1560389269077](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\1560389269077.png)
+![1560389269077](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560389269077.png)
 
 
 
