@@ -1,6 +1,6 @@
 # GitHub极简教程
 
-（**说明:**本文只涉及GitHub For Windows，暂无Mac端，如果你使用的是Macbook，可根据内容自行更改）
+（**说明**本文只涉及GitHub For Windows，暂无Mac端，如果你使用的是Macbook，可根据内容自行更改）
 
 ## 准备
 
