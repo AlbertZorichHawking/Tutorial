@@ -44,7 +44,7 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 创建代码库， Name填写你的项目名称，Description写这个项目的简单描述，Local path写你将要保存在本地路径，建议勾选Initialize选项，这样会自动生成一个Markdown主文件，可以填写项目的详细介绍。
 
-![1560387374031](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560386945325.png)
+![1560387374031](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560387374031.png)
 
 
 
