@@ -30,7 +30,7 @@ GitHub For Windows的界面非常清爽（只是是**纯英文**界面），里�
 
 ### Clone
 
-就是将在浏览器上已经创建好的项目导入到本地，换句话说就是下载到本地。（开放性项目的GitHub地址如下，可以复制好直接下载）
+就是将在浏览器上已经创建好的项目导入到本地，换句话说就是下载到本地。（开放课题项目的GitHub地址如下https://github.com/AlbertZorichHawking/Game-Theory，可以复制直接下载）
 
 ![1560386945325](https://github.com/AlbertZorichHawking/Tutorial/blob/master/Img/1560386945325.png)
 
